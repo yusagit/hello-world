@@ -1,2 +1,2 @@
 # hello-world
-Ideas, discussion, vocaburaries, etc.
+Ideas, discussion, vocabularies, etc.
